@@ -3,6 +3,17 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Replit
+.replit
+poetry.lock
+pyproject.toml
+
+# VS Code
+.vscode/
+
+# Wordlist
+Wordlists/
+
 # C extensions
 *.so
 
